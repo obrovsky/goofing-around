@@ -2,4 +2,5 @@
 
 Some content.
 
-Some more content added by the owner.
+Some more content created by the contributor.
+
